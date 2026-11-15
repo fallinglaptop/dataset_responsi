@@ -1,0 +1,14 @@
+id_pesanan,tanggal,wilayah,kategori,produk,qty,harga
+1,03/01/2026,Malang,Perkebunan,Kopi Arabika,20,85000
+2,03/01/2026,jember ,perkebunan,Kakao Bubuk,15,60000
+3,03/02/2026,Lampung,Olahan Pangan,Tepung Mocaf,100,20000
+4,03/02/2026,MALANG,Olahan Pangan,Keripik Pisang,,45000
+5,03/03/2026,Jember,Perkebunan,Kopi Arabika,10,85000
+6,03/03/2026,Lampung,Perkebunan,Kakao Bubuk,25,60000
+7,03/04/2026,Malang,Olahan Pangan,Tepung Mocaf,50,20000
+8,03/04/2026,Jember,Olahan Pangan,Keripik Pisang,40,45000
+9,03/05/2026,lampung,Perkebunan,Kopi Arabika,12,85000
+10,03/06/2026,Malang,Perkebunan,Kakao Bubuk,30,60000
+11,03/06/2026,Lampung,Olahan Pangan,Keripik Pisang,30,45000
+12,03/07/2026,Malang,Olahan Pangan,Tepung Mocaf,80,20000
+1,03/01/2026,malang ,PERKEBUNAN,Kopi Arabika,20,85000
