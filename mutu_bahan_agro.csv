@@ -1,0 +1,25 @@
+id_sampel,komoditas,pemasok,ulangan,kadar_air_persen,cacat_persen,harga_rp_per_kg
+S01,kopi,Sukamaju,1,11.2,2.1,85000
+S02,kopi,Sukamaju,2,12.0,3.4,85000
+S03,kopi,Tanijaya,1,13.5,4.8,82000
+S04,kopi,Tanijaya,2,12.8,6.2,82000
+S05,kopi,Mekar Sari,1,10.9,1.5,88000
+S06,kopi,Mekar Sari,2,14.1,7.3,88000
+S07,kopi,Sukamaju,3,11.8,2.9,85000
+S08,kopi,Tanijaya,3,12.4,5.1,82000
+S09,kakao,Sukamaju,1,7.2,3.0,60000
+S10,kakao,Tanijaya,1,8.1,5.5,58000
+S11,kakao,Mekar Sari,1,6.8,2.4,62000
+S12,kakao,Sukamaju,2,7.5,4.0,60000
+S13,kakao,Tanijaya,2,8.6,6.8,58000
+S14,kakao,Mekar Sari,2,7.0,2.2,62000
+S15,kakao,Sukamaju,3,7.9,3.6,60000
+S16,kakao,Tanijaya,3,8.4,5.9,58000
+S17,jagung,Sukamaju,1,13.0,2.0,6500
+S18,jagung,Tanijaya,1,14.8,4.5,6200
+S19,jagung,Mekar Sari,1,12.6,1.8,6800
+S20,jagung,Sukamaju,2,13.4,2.7,6500
+S21,jagung,Tanijaya,2,15.2,5.0,6200
+S22,jagung,Mekar Sari,2,12.9,1.6,6800
+S23,jagung,Sukamaju,3,13.8,3.1,6500
+S24,jagung,Tanijaya,3,14.0,4.2,6200
